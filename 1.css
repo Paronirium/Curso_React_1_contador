@@ -1,0 +1,44 @@
+body {
+   
+    
+    background-color: #492e06;
+  }
+
+ #root  {
+    
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border: solid red 4px;
+    position: absolute;}
+    
+
+  button {
+    height: 50px;
+    border-radius: 50px;
+    box-shadow: 0 0 20px #117;
+    background-color: darkslategrey;
+   
+    
+  }
+  span {
+    width: 100px;
+    
+    text-align: center;
+    font-size: 50px;
+    background-color: darkseagreen;
+    color: darkviolet;
+    box-shadow:0 0 20px rgb(14, 130, 62) ;
+    border-radius: 50px;
+    margin: 50px;
+  }
+
+  .creado {
+    
+    
+    
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
